@@ -79,6 +79,10 @@ llm-trello-agent/
 - List of extracted tasks
 - Optional creation of Trello cards for tasks
 
+## Demo
+Watch a walkthrough of the AI Task Agent in action:
+https://youtu.be/TOaJdto_JNY
+
 ## License
 
 This project is licensed under the MIT License.
